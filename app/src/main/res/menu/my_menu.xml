@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+    
+    <item android:id="@+id/speed"
+        android:title="Speed"/>
+    <item android:id="@+id/speedIs0.5x"
+        android:title="0.5x"/>
+    <item android:id="@+id/speedIs0.75x"
+        android:title="0.75x"/>
+    <item android:id="@+id/speedIs1x"
+        android:title="1.0x"/>
+    <item android:id="@+id/speedIs1.5x"
+        android:title="1.5x"/>
+    <item android:id="@+id/speedIs2.0x"
+        android:title="2.0x"/>
+
+
+</menu>
